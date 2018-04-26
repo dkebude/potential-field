@@ -1,6 +1,6 @@
 # apf-obstacle-avoidance
 
-![Alt text](./Supplement/animated.gif)
+![Alt text](https://github.com/dkebude/potential-field/blob/master/Figures/animated.gif)
 
 This is a MATLAB implementation of obstacle avoidance with a 2DOF robot animation, using the [artificial potential field approach](https://cs.stanford.edu/group/manips/publications/pdfs/Khatib_1986_IJRR.pdf) introduced by [Oussama Khatib](https://cs.stanford.edu/groups/manips/ok.html) in 1986.
 
